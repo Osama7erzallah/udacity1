@@ -8,7 +8,7 @@
 }
  
 .post_header {
-background-position-x: -1200px !important;}
+background-position-x: -650px !important;}
 
 .post {
     display: grid;
@@ -26,7 +26,7 @@ background-position-x: -1200px !important;}
         }
 
                 .post_header {
-                    background-position-x: -1000px !important;
+                        background-position-x: -1500px !important;
                 }
         
                 .post {
@@ -37,7 +37,7 @@ background-position-x: -1200px !important;}
 @media  (max-width: 425px) {
    
   .post_header {
-      background-position-x: -700px !important;
+      background-position-x: -800px !important;
   }
     }
 
